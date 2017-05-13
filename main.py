@@ -115,3 +115,4 @@ with open(os.path.join("unbot", "usernamescreated.txt"), "w") as fyle:
     fyle.write("\n".join(USERNAMES_CREATED))  # write file with created users
 
 #nambah seperlunya
+#nambah seperlunya2
